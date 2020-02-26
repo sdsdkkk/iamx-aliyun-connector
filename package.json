@@ -1,0 +1,19 @@
+{
+  "name": "iamx-aliyun-connector",
+  "version": "0.0.1",
+  "description": "Aliyun Connector for IAMX",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdsdkkk/iamx-aliyun-connector.git"
+  },
+  "author": "Edwin Tunggawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdsdkkk/iamx-aliyun-connector/issues"
+  },
+  "homepage": "https://github.com/sdsdkkk/iamx-aliyun-connector#readme"
+}
