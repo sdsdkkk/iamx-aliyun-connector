@@ -5,8 +5,7 @@
   "main": "lib/index.js",
   "dependencies": {
     "bluebird": "3.7.2",
-    "@alicloud/pop-core": "1.7.9",
-    "@alicloud/ram": "1.0.0"
+    "@alicloud/pop-core": "1.7.9"
   },
   "devDependencies": {
     "mocha": "7.0.1",
